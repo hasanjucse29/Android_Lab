@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="find">Find Bird</string>
+    <string name="infoss">Birds</string>
+    <string-array name="spinner">
+        <item>Peacock</item>
+        <item>Bald Eagle</item>
+        <item>Hummingbird</item>
+        <item>Snowy Owl</item>
+    </string-array>
+</resources>
